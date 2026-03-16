@@ -8,7 +8,7 @@ This project focuses on analyzing and predicting airline customer satisfaction b
 - Results
 - Contributing
 ## Project Overview ##
-Airline companies aim to enhance customer satisfaction by identifying key factors that contribute to positive feedback. This project involves exploratory data analysis, preprocessing, and the use of machine learning classifiers to predict customer satisfaction.kk
+Airline companies aim to enhance customer satisfaction by identifying key factors that contribute to positive feedback. This project involves exploratory data analysis, preprocessing, and the use of machine learning classifiers to predict customer satisfaction.kkk
 ## Dataset ##
 The dataset used in this project contains various features related to customer satisfaction. Load the dataset (e.g., Airline_customer_satisfaction.csv) in the same directory as the notebook or specify the file path in the data loading section.
 
