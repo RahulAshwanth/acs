@@ -4,7 +4,7 @@ This project focuses on analyzing and predicting airline customer satisfaction b
 - Project Overview
 - Dataset
 - Data Preprocessing
-- Model Training and Evaluationddd
+- Model Training and Evaluation
 - Results
 - Contributing
 ## Project Overview ##
